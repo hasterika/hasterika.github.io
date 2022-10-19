@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hasterika.github.io/sitemap.xml
